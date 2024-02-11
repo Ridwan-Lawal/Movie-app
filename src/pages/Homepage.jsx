@@ -1,9 +1,11 @@
 import NavBar from "../components/NavBar";
+import SearchForm from "../components/SearchForm";
 
 function Homepage() {
   return (
     <div>
-      <NavBar />
+      {/* <NavBar />
+      <SearchForm /> */}
       <p>Homepage</p>
     </div>
   );
